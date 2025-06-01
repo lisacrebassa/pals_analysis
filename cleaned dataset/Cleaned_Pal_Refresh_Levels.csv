@@ -1,0 +1,421 @@
+,id,name,min_level,fecundity,refresh_type,refresh_area
+0,1.0,Mian Youyou,1.0,14.0,,1
+1,2.0,Naughty cat,1.0,13.0,,2
+2,3.0,Pipi Chicken,1.0,13.0,,3
+3,4.0,green leaf rat,2.0,13.0,,4
+4,5.0,tinder fox,2.0,18.0,,5
+5,6.0,surf duck,2.0,13.0,,6
+6,7.0,Volt Meow,3.0,17.0,,7
+7,8.0,Neolepithecus,2.0,13.0,,8
+8,9.0,Fire Deer,2.0,13.0,,9
+9,10.0,Keimaru,2.0,45.0,,10
+10,11.0,King Keimaru,15.0,22.0,,11
+11,12.0,electric rat,3.0,13.0,,12
+12,12.0,ice agouti,10.0,10.0,,12
+13,13.0,Ye Ni Ni (Special),2.0,14.0,,13
+14,13.0,Ye NiNi,2.0,14.0,,13
+15,14.0,Tamamo fox,3.0,13.0,,14
+16,15.0,Tikar,3.0,14.0,,15
+17,16.0,pot elephant,1.0,13.0,,15
+18,17.0,Look at the devil,3.0,14.0,,16
+19,18.0,Miruffy,2.0,14.0,,17
+20,19.0,sleep demon,3.0,15.0,,17
+21,20.0,sage pig,2.0,13.0,,18
+22,21.0,Lunati,3.0,19.0,,18
+23,22.0,Escape Rat,5.0,40.0,,19
+24,23.0,squid,5.0,13.0,,20
+25,24.0,ice cream,30.0,45.0,,21
+26,24.0,Meowster,5.0,15.0,,22
+27,25.0,Rumiel,2.0,13.0,,23
+28,26.0,hunting wolves,4.0,15.0,,24
+29,27.0,Fried egg bird,11.0,40.0,,24
+30,28.0,Bona Rabbit,10.0,29.0,,25
+31,29.0,Boba Cow,10.0,19.0,,26
+32,30.0,Thorn Fairy,16.0,29.0,,27
+33,31.0,Sharkboy,20.0,29.0,,28
+34,31.0,red shark,25.0,38.0,,29
+35,32.0,Hanging spirit,14.0,40.0,,30
+36,32.0,Icebound Spirit,33.0,35.0,,31
+37,33.0,Ye Panda,25.0,29.0,,31
+38,33.0,Lei Panda,31.0,37.0,,32
+39,34.0,Marshmallow,14.0,19.0,,32
+40,35.0,bush sheep,6.0,41.0,,32
+41,36.0,Melupa,5.0,17.0,,33
+42,37.0,Only a deer,18.0,22.0,,33
+43,37.0,Zixia Deer,6.0,13.0,,34
+44,38.0,Swift Falcon,9.0,40.0,,34
+45,39.0,Ji Xiaotu,2.0,19.0,,35
+46,40.0,Dark Demon Sheep,40.0,45.0,,36
+47,40.0,Balrog Sheep,29.0,38.0,,37
+48,41.0,Huan Yue Butterfly,18.0,29.0,,37
+49,42.0,Blazing Ox,9.0,39.0,,38
+50,43.0,Pa Pa Pa Catfish,14.0,38.0,,39
+51,44.0,Black Crow Hermit,12.0,40.0,,40
+52,45.0,Hot-blooded lizard,15.0,38.0,,40
+53,45.0,punk lizard,29.0,40.0,,41
+54,46.0,Moonscythe Demon,12.0,29.0,,42
+55,47.0,Tianqinniao,9.0,29.0,,43
+56,48.0,Feather Archer,21.0,29.0,,43
+57,48.0,mountain shooter,30.0,40.0,,44
+58,49.0,Iron Fist Ape,18.0,29.0,,45
+59,50.0,knight bee,20.0,25.0,,45
+60,51.0,queen bee,28.0,31.0,,46
+61,52.0,Laughing Nightmare Cat,17.0,29.0,,47
+62,53.0,Mao duster,7.0,27.0,,48
+63,54.0,Dad Mao,11.0,32.0,,48
+64,55.0,Whirling Weasel,11.0,45.0,,49
+65,56.0,thunder wildebeest,7.0,31.0,,50
+66,57.0,blowing snow fox,28.0,32.0,,50
+67,58.0,fire unicorn,29.0,38.0,,51
+68,58.0,evil unicorn,32.0,38.0,,52
+69,59.0,Deer in severe winter,25.0,45.0,,53
+70,60.0,thunder dog,30.0,40.0,,54
+71,61.0,Blue Flame Wolf,28.0,32.0,,55
+72,62.0,Thunder Boy,29.0,40.0,,56
+73,63.0,Mystia,32.0,45.0,,57
+74,64.0,Thunder Guanlong,35.0,47.0,,58
+75,64.0,Corolla dragon,10.0,39.0,,58
+76,65.0,water-sliding snake,14.0,26.0,,58
+77,65.0,quicksand snake,30.0,40.0,,59
+78,66.0,Soul Eater,36.0,45.0,,60
+79,67.0,Rock Crusher Turtle,17.0,40.0,,61
+80,68.0,cat bat monster,5.0,45.0,,62
+81,69.0,fraternity lizard,18.0,40.0,,63
+82,70.0,Rong Yan Niang,9.0,38.0,,64
+83,71.0,Fenggelong,10.0,40.0,,64
+84,71.0,Frost Song Dragon,36.0,45.0,,65
+85,72.0,Wave Blade Samurai,23.0,45.0,,65
+86,73.0,Thunderbird,29.0,40.0,,66
+87,74.0,Flamingo,34.0,38.0,,67
+88,75.0,dark witch cat,20.0,29.0,,68
+89,76.0,Flame Witch Fox,16.0,38.0,,69
+90,77.0,spring rabbit,35.0,45.0,,70
+91,78.0,Verita,18.0,38.0,,71
+92,79.0,silk moth,36.0,45.0,,71
+93,80.0,Faerie Dragon,18.0,45.0,,72
+94,81.0,Huo Linger,9.0,38.0,,73
+95,81.0,Shui Linger,9.0,19.0,,74
+96,82.0,Bihailong,17.0,22.0,,75
+97,83.0,Ice Thorn Beast,36.0,45.0,,76
+98,84.0,Hell King,33.0,38.0,,77
+99,84.0,Hellfire King,34.0,38.0,,78
+100,85.0,Pecorone,15.0,20.0,,79
+101,85.0,Parker,31.0,31.0,,80
+102,86.0,Allother,30.0,30.0,,81
+103,86.0,Lian Lilong,17.0,23.0,,81
+104,87.0,Hualina,18.0,28.0,,82
+105,88.0,Frost Beast,42.0,45.0,,83
+106,88.0,Lava Beast,34.0,38.0,,84
+107,89.0,King Melupa,23.0,45.0,,84
+108,89.0,Ice Emperor Melpa,46.0,46.0,,85
+109,90.0,snow mammoth,41.0,45.0,,85
+110,90.0,Mammoth,30.0,40.0,,86
+111,91.0,Green Moss Velvet,38.0,45.0,,86
+112,91.0,White Velvet Snow Monster,41.0,45.0,,87
+113,92.0,Kaigres,30.0,45.0,,88
+114,93.0,Cloud sea deer,15.0,45.0,,88
+115,94.0,Night Mephit,20.0,31.0,,88
+116,95.0,Tianyulong,23.0,45.0,,89
+117,96.0,Flame Glory,40.0,49.0,,89
+118,97.0,Thunderbird,24.0,28.0,,90
+119,98.0,Demon Dragon,40.0,48.0,,90
+120,99.0,Dark Armored Scorpion,40.0,45.0,,91
+121,100.0,Anubis,47.0,47.0,,91
+122,101.0,Sea-covering dragon,45.0,45.0,,92
+123,101.0,Teng Yanlong,40.0,45.0,,93
+124,102.0,Qingque,42.0,45.0,,94
+125,102.0,Suzaku,40.0,45.0,,95
+126,103.0,Lightning Bear,18.0,22.0,,96
+127,104.0,lily queen,40.0,45.0,,97
+128,104.0,black moon queen,49.0,49.0,,98
+129,105.0,Horus,40.0,45.0,,99
+130,106.0,Pollux,40.0,45.0,,100
+131,107.0,Heterogeneous Griffin,40.0,45.0,,101
+132,108.0,Knight of Light,50.0,50.0,,101
+133,109.0,Chaos Knight,50.0,50.0,,102
+134,110.0,Winter Caller,50.0,50.0,,102
+135,111.0,Vortex Dragon,50.0,50.0,,103
+145,,1,1470.0,,,grassland
+146,,1,1460.0,,,grassland
+147,,1,1500.0,,,grassland
+148,,2,1430.0,,,islands
+149,,2,1400.0,,,islands
+150,,2,1330.0,,,islands
+151,,3,1410.0,,,grassland
+152,,2,1250.0,,,islands
+153,,2,1155.0,,,islands
+154,,2,1350.0,,,grassland
+155,,15,520.0,,,grassland
+156,,10,1360.0,,,Random events
+157,,3,1370.0,,,grassland
+158,,2,1240.0,,,islands
+159,,2,1240.0,,,islands
+160,,3,1450.0,,,grassland
+161,,3,1390.0,,yes,grassland
+162,,3,1390.0,,yes,islands
+163,,1,1490.0,,,grassland
+164,,3,1380.0,,yes,grassland
+165,,3,1380.0,,yes,islands
+166,,2,1455.0,,,grassland
+167,,2,1455.0,,,islands
+168,,3,1230.0,,yes,grassland
+169,,2,1130.0,,,islands
+170,,3,1180.0,,yes,islands
+171,,5,1220.0,,,dungeon
+172,,5,1290.0,,,dungeon
+173,,30,1440.0,,,Snow
+174,,5,1480.0,,,dungeon
+175,,2,870.0,,,grassland
+176,,4,1060.0,,,islands
+177,,11,1340.0,,,grassland
+178,,10,1280.0,,,Random events
+179,,10,910.0,,,grassland
+180,,16,1320.0,,,forest
+181,,25,1100.0,,,volcano
+182,,20,1090.0,,,forest
+183,,33,1422.0,,yes,Snow
+184,,14,1420.0,,,dungeon
+185,,14,1420.0,,,grassland
+186,,25,430.0,,,forest
+187,,31,390.0,,,grassland
+188,,14,1190.0,,,grassland
+189,,14,1190.0,,,dungeon
+190,,6,930.0,,,dungeon
+191,,5,890.0,,,grassland
+192,,18,900.0,,,game reserve
+193,,6,920.0,,,dungeon
+194,,9,420.0,,,grassland
+195,,2,1310.0,,,islands
+196,,40,580.0,,,game reserve
+197,,29,590.0,,,volcano
+198,,18,490.0,,,forest
+199,,9,790.0,,,grassland
+200,,14,895.0,,,dungeon
+201,,14,895.0,,,grassland
+202,,12,1080.0,,yes,grassland
+203,,29,1120.0,,,volcano
+204,,15,1140.0,,yes,volcano
+205,,12,950.0,,yes,grassland
+206,,9,1030.0,,,grassland
+207,,30,1000.0,,,desert
+208,,21,1020.0,,,Random events
+209,,18,1040.0,,,Random events
+210,,20,1070.0,,,dungeon
+211,,20,1070.0,,,forest
+212,,28,330.0,,,forest
+213,,17,510.0,,,grassland
+214,,7,1300.0,,,grassland
+215,,11,410.0,,,grassland
+216,,11,800.0,,,grassland
+217,,7,680.0,,,grassland
+218,,28,760.0,,,forest snow
+219,,29,360.0,,,volcano
+220,,29,360.0,,,grassland
+221,,32,240.0,,,dungeon
+222,,25,880.0,,,forest snow
+223,,30,740.0,,,desert
+224,,28,830.0,,yes,forest snow
+225,,29,1210.0,,,desert
+226,,32,1110.0,,,grassland
+227,,10,820.0,,,dungeon
+228,,35,810.0,,,desert
+229,,30,550.0,,,desert
+230,,14,560.0,,,dungeon
+231,,36,1150.0,,yes,Snow
+232,,17,850.0,,,dungeon
+233,,5,750.0,,yes,islands
+234,,18,940.0,,yes,grassland
+235,,9,1405.0,,,volcano
+236,,10,660.0,,,grassland
+237,,36,620.0,,yes,Snow
+238,,23,640.0,,,grassland
+239,,29,220.0,,,grassland
+240,,34,380.0,,,volcano
+241,,20,700.0,,,dungeon
+242,,16,1160.0,,,volcano
+243,,35,990.0,,,forest
+244,,18,1050.0,,,game reserve
+245,,36,450.0,,,Snow
+246,,18,540.0,,,game reserve
+247,,9,1260.0,,,grassland
+248,,9,1270.0,,,volcano
+249,,17,500.0,,,grassland
+250,,36,130.0,,,Snow
+251,,34,710.0,,,volcano
+252,,33,670.0,,yes,volcano
+253,,15,280.0,,,grassland
+254,,31,270.0,,,grassland
+255,,30,840.0,,,grassland
+256,,17,860.0,,,grassland
+257,,18,780.0,,,game reserve
+258,,42,230.0,,,dungeon
+259,,42,230.0,,,dungeon
+260,,34,320.0,,,volcano
+261,,46,440.0,,,Snow
+262,,23,470.0,,,grassland
+263,,30,300.0,,,islands
+264,,41,290.0,,,Snow
+265,,41,460.0,,,Snow
+266,,38,480.0,,,grassland
+267,,30,340.0,,,forest
+268,,15,980.0,,,grassland
+269,,20,1010.0,,,dungeon
+270,,23,350.0,,,grassland
+271,,40,10.0,,,game reserve
+272,,24,190.0,,yes,forest
+273,,40,150.0,,,game reserve
+274,,40,260.0,,,game reserve
+275,,47,570.0,,,grassland
+276,,40,315.0,,,game reserve
+277,,45,310.0,,,grassland
+278,,40,50.0,,,desert
+279,,42,30.0,,,dungeon
+280,,18,200.0,,,game reserve
+281,,40,250.0,,,game reserve
+282,,49,210.0,,,Snow
+283,,40,370.0,,,game reserve
+284,,40,140.0,,,game reserve
+285,,40,60.0,,,game reserve
+286,,50,80.0,,,desert
+287,,50,70.0,,,desert
+288,,50,120.0,,,Snow
+289,,50,90.0,,,volcano
+290,,1.0,,14.0,Creeps,
+291,,2.0,,13.0,Random dungeon boss,
+292,,3.0,,13.0,Random dungeon boss,
+293,,4.0,,13.0,Random dungeon boss,
+294,,5.0,,18.0,Wild BOSS,
+295,,6.0,,13.0,Random dungeon boss,
+296,,6.0,,13.0,Creeps,
+297,,7.0,,17.0,Creeps,
+298,,8.0,,13.0,Random dungeon boss,
+299,,9.0,,13.0,Random dungeon boss,
+300,,10.0,,45.0,Random dungeon boss,
+301,,11.0,,22.0,Creeps,
+302,,12.0,,10.0,event,
+303,,12.0,,13.0,Random dungeon boss,
+304,,13.0,,14.0,Creeps,
+305,,13.0,,14.0,Creeps,
+306,,14.0,,13.0,Random dungeon boss,
+307,,15.0,,14.0,Creeps,yes
+308,,16.0,,13.0,Random dungeon boss,
+309,,17.0,,14.0,Creeps,yes
+310,,18.0,,14.0,Creeps,
+311,,19.0,,15.0,Creeps,
+312,,20.0,,13.0,Random dungeon boss,
+313,,21.0,,19.0,Random dungeon boss,
+314,,22.0,,40.0,Random dungeon boss,
+315,,23.0,,13.0,Random dungeon boss,
+316,,24.0,,45.0,Random dungeon boss,
+317,,24.0,,15.0,Creeps,
+318,,25.0,,13.0,Random dungeon boss,
+319,,26.0,,15.0,Creeps,
+320,,27.0,,40.0,Random dungeon boss,
+321,,28.0,,29.0,Random dungeon boss,
+322,,29.0,,19.0,Random dungeon boss,
+323,,30.0,,29.0,Random dungeon boss,
+324,,31.0,,38.0,Random dungeon boss,
+325,,31.0,,29.0,Random dungeon boss,
+326,,32.0,,35.0,Creeps,yes
+327,,32.0,,40.0,Random dungeon boss,
+328,,33.0,,29.0,Random dungeon boss,
+329,,33.0,,37.0,Creeps,
+330,,34.0,,19.0,Random dungeon boss,
+331,,35.0,,41.0,Creeps,
+332,,36.0,,17.0,Creeps,
+333,,37.0,,22.0,Creeps,
+334,,37.0,,13.0,Random dungeon boss,
+335,,38.0,,40.0,Random dungeon boss,
+336,,39.0,,19.0,Random dungeon boss,
+337,,40.0,,45.0,Creeps,
+338,,40.0,,38.0,Random dungeon boss,
+339,,41.0,,29.0,Random dungeon boss,
+340,,42.0,,39.0,Creeps,
+341,,43.0,,38.0,Random dungeon boss,
+342,,44.0,,40.0,Random dungeon boss,
+343,,45.0,,40.0,Random dungeon boss,
+344,,45.0,,38.0,Random dungeon boss,
+345,,46.0,,29.0,Random dungeon boss,
+346,,47.0,,29.0,Random dungeon boss,
+347,,48.0,,40.0,Random dungeon boss,
+348,,48.0,,29.0,Random dungeon boss,
+349,,49.0,,29.0,Random dungeon boss,
+350,,50.0,,25.0,Wild BOSS,
+351,,51.0,,31.0,Wild BOSS,
+352,,52.0,,29.0,Random dungeon boss,
+353,,53.0,,27.0,Creeps,
+354,,54.0,,32.0,Creeps,
+355,,55.0,,45.0,Random dungeon boss,
+356,,56.0,,31.0,Wild BOSS,
+357,,57.0,,32.0,Creeps,
+358,,58.0,,38.0,Random dungeon boss,
+359,,58.0,,38.0,Random dungeon boss,
+360,,59.0,,45.0,Random dungeon boss,
+361,,60.0,,40.0,Random dungeon boss,
+362,,61.0,,32.0,Creeps,yes
+363,,62.0,,40.0,Random dungeon boss,
+364,,63.0,,45.0,Random dungeon boss,
+365,,64.0,,39.0,event,
+366,,64.0,,47.0,Wild BOSS,
+367,,65.0,,40.0,Random dungeon boss,
+368,,65.0,,26.0,Creeps,yes
+369,,66.0,,45.0,Random dungeon boss,
+370,,67.0,,40.0,Random dungeon boss,
+371,,68.0,,45.0,Random dungeon boss,
+372,,69.0,,40.0,Random dungeon boss,
+373,,70.0,,38.0,Random dungeon boss,
+374,,71.0,,40.0,event,
+375,,71.0,,45.0,Random dungeon boss,
+376,,72.0,,45.0,Creeps,
+377,,73.0,,40.0,Random dungeon boss,
+378,,74.0,,38.0,Random dungeon boss,
+379,,75.0,,29.0,Random dungeon boss,
+380,,76.0,,38.0,Random dungeon boss,
+381,,77.0,,45.0,Creeps,
+382,,78.0,,38.0,Secret Domain BOSS,
+383,,79.0,,45.0,Random dungeon boss,
+384,,80.0,,45.0,Random dungeon boss,
+385,,81.0,,19.0,Random dungeon boss,
+386,,81.0,,38.0,Random dungeon boss,
+387,,82.0,,22.0,Creeps,
+388,,83.0,,45.0,Random dungeon boss,
+389,,84.0,,38.0,Random dungeon boss,
+390,,84.0,,38.0,Random dungeon boss,
+391,,85.0,,20.0,event,
+392,,85.0,,20.0,Creeps,
+393,,85.0,,31.0,Secret Domain BOSS,
+394,,86.0,,30.0,Wild BOSS,
+395,,86.0,,23.0,Wild BOSS,
+396,,87.0,,28.0,Secret Domain BOSS,
+397,,88.0,,45.0,Random dungeon boss,
+398,,88.0,,38.0,Random dungeon boss,
+399,,89.0,,46.0,Wild BOSS,
+400,,89.0,,45.0,Creeps,
+401,,90.0,,40.0,Creeps,
+402,,90.0,,45.0,Random dungeon boss,
+403,,91.0,,45.0,Random dungeon boss,
+404,,91.0,,45.0,Creeps,
+405,,92.0,,45.0,Creeps,
+406,,93.0,,45.0,Creeps,
+407,,94.0,,31.0,Wild BOSS,
+408,,95.0,,45.0,Random dungeon boss,
+409,,95.0,,45.0,Creeps,
+410,,96.0,,49.0,Wild BOSS,
+411,,97.0,,28.0,Creeps,yes
+412,,98.0,,48.0,Wild BOSS,
+413,,99.0,,45.0,Creeps,
+414,,100.0,,47.0,Wild BOSS,
+415,,101.0,,45.0,Creeps,
+416,,101.0,,45.0,Wild BOSS,
+417,,102.0,,45.0,Wild BOSS,
+418,,102.0,,45.0,Random dungeon boss,
+419,,103.0,,22.0,Creeps,
+420,,104.0,,45.0,Creeps,
+421,,104.0,,49.0,Wild BOSS,
+422,,105.0,,45.0,Creeps,
+423,,106.0,,45.0,Creeps,
+424,,107.0,,45.0,Creeps,
+425,,108.0,,50.0,Wild BOSS,
+426,,109.0,,50.0,Wild BOSS,
+427,,110.0,,50.0,Wild BOSS,
+428,,111.0,,50.0,Wild BOSS,

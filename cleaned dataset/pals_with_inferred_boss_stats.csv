@@ -1,0 +1,131 @@
+name,hp,remote_attack,riding_speed,is_boss,base_name
+Chaos Knight BOSS,260.0,,,True,Chaos Knight
+Chaos Knight,130.0,,,False,Chaos Knight
+Winter Caller Beast BOSS,420.0,,,True,Winter Caller Beast
+Winter Caller,140.0,,,False,Winter Caller
+Night Caller BOSS,420.0,,,True,Night Caller
+Night Caller,140.0,,,False,Night Caller
+Vortex Dragon BOSS,330.0,,,True,Vortex Dragon
+Vortex Dragon,110.0,,,False,Vortex Dragon
+Holy Light Knight BOSS,260.0,,,True,Holy Light Knight
+Knight of Light,130.0,,,False,Knight of Light
+Melupa BOSS,,90.0,,True,Melupa
+Melupa,,75.0,,False,Melupa
+Volt Meow BOSS,,80.0,,True,Volt Meow
+Volt Meow,,75.0,,False,Volt Meow
+Snow Mammoth BOSS,,90.0,,True,Snow Mammoth
+snow mammoth,,85.0,,False,snow mammoth
+Zixialu BOSS,,,1000.0,True,Zixialu
+Zixia Deer,,,900.0,False,Zixia Deer
+Suzaku BOSS,,,1200.0,True,Suzaku
+Suzaku,,,1100.0,False,Suzaku
+Yunhailu BOSS,,,1150.0,True,Yunhailu
+Cloud sea deer,,,1050.0,False,Cloud sea deer
+Hell Flame King BOSS,,,1000.0,True,Hell Flame King
+Hell King BOSS,,,1000.0,True,Hell King
+Hellfire King,,,900.0,False,Hellfire King
+Hell King,,,900.0,False,Hell King
+Heterogeneous Griffin BOSS,,,1300.0,True,Heterogeneous Griffin
+Heterogeneous Griffin,,,1200.0,False,Heterogeneous Griffin
+Ye Panda BOSS,,,800.0,True,Ye Panda
+Ye Panda,,,700.0,False,Ye Panda
+Flame Glory BOSS,,,1000.0,True,Flame Glory
+Flame Glory,,,900.0,False,Flame Glory
+Severe Winter Deer BOSS,,,800.0,True,Severe Winter Deer
+Deer in severe winter,,,700.0,False,Deer in severe winter
+Thunderbird BOSS,,,1300.0,True,Thunderbird
+Thunderbird,,,1200.0,False,Thunderbird
+Snow Mammoth BOSS,,,700.0,True,Snow Mammoth
+snow mammoth,,,600.0,False,snow mammoth
+Evil Qilin BOSS,,,1400.0,True,Evil Qilin
+evil unicorn,,,1300.0,False,evil unicorn
+Laughing Nightmare Cat BOSS,,,900.0,True,Laughing Nightmare Cat
+Laughing Nightmare Cat,,,800.0,False,Laughing Nightmare Cat
+Tianyulong BOSS,,,1050.0,True,Tianyulong
+Tianyulong,,,950.0,False,Tianyulong
+Teng Yanlong BOSS,,,800.0,True,Teng Yanlong
+Teng Yanlong,,,700.0,False,Teng Yanlong
+Firebird BOSS,,,1400.0,True,Firebird
+Flamingo,,,1300.0,False,Flamingo
+Water Spirit Dragon BOSS,,,900.0,True,Water Spirit Dragon
+Water Spirit Dragon,,,800.0,False,Water Spirit Dragon
+Frost Song Dragon BOSS,,,950.0,True,Frost Song Dragon
+Frost Song Dragon,,,850.0,False,Frost Song Dragon
+Soul-Eating Beast BOSS,,,900.0,True,Soul-Eating Beast
+Soul Eater,,,800.0,False,Soul Eater
+Mammoth BOSS,,,700.0,True,Mammoth
+Mammoth,,,600.0,False,Mammoth
+Lava Beast BOSS,,,650.0,True,Lava Beast
+Lava Beast,,,550.0,False,Lava Beast
+Qingque BOSS,,,1200.0,True,Qingque
+Qingque,,,1100.0,False,Qingque
+Jiyuelu BOSS,,,1000.0,True,Jiyuelu
+Only a deer,,,900.0,False,Only a deer
+Thunder Dog BOSS,,,1200.0,True,Thunder Dog
+thunder dog,,,1150.0,False,thunder dog
+Pekeron BOSS,,,900.0,True,Pekeron
+Pecorone,,,800.0,False,Pecorone
+Pike Dragon BOSS,,,900.0,True,Pike Dragon
+Parker,,,800.0,False,Parker
+Demon Dragon BOSS,,,900.0,True,Demon Dragon
+Demon Dragon,,,800.0,False,Demon Dragon
+Melupa BOSS,,,900.0,True,Melupa
+Melupa,,,800.0,False,Melupa
+Daddy Mao BOSS,,,600.0,True,Daddy Mao
+Dad Mao,,,500.0,False,Dad Mao
+Green Moss Velvet Monster BOSS,,,650.0,True,Green Moss Velvet Monster
+Green Moss Velvet,,,550.0,False,Green Moss Velvet
+Quicksand Snake BOSS,,,750.0,True,Quicksand Snake
+quicksand snake,,,650.0,False,quicksand snake
+Lianlilong BOSS,,,600.0,True,Lianlilong
+Lian Lilong,,,500.0,False,Lian Lilong
+Leipanda BOSS,,,800.0,True,Leipanda
+Lei Panda,,,700.0,False,Lei Panda
+Thunderbird BOSS,,,1200.0,True,Thunderbird
+Thunderbird,,,1100.0,False,Thunderbird
+Thunderhorne BOSS,,,1200.0,True,Thunderhorne
+thunder wildebeest,,,1100.0,False,thunder wildebeest
+Thunder Crown Dragon BOSS,,,800.0,True,Thunder Crown Dragon
+Thunder Guanlong,,,700.0,False,Thunder Guanlong
+King Melupa BOSS,,,800.0,True,King Melupa
+King Melupa,,,700.0,False,King Melupa
+Elf Dragon BOSS,,,900.0,True,Elf Dragon
+Faerie Dragon,,,800.0,False,Faerie Dragon
+Whirlpool Weasel BOSS,,,900.0,True,Whirlpool Weasel
+Whirling Weasel,,,800.0,False,Whirling Weasel
+Gale Falcon BOSS,,,850.0,True,Gale Falcon
+Swift Falcon,,,750.0,False,Swift Falcon
+Fire Qilin BOSS,,,1400.0,True,Fire Qilin
+fire unicorn,,,1300.0,False,fire unicorn
+Night Caller BOSS,,,1600.0,True,Night Caller
+Night Caller,,,1500.0,False,Night Caller
+Winter Caller Beast BOSS,,,1600.0,True,Winter Caller Beast
+Winter Caller,,,1500.0,False,Winter Caller
+Water Skiing Snake BOSS,,,750.0,True,Water Skiing Snake
+water-sliding snake,,,650.0,False,water-sliding snake
+Corolla Dragon BOSS,,,800.0,True,Corolla Dragon
+Corolla dragon,,,700.0,False,Corolla dragon
+Horus BOSS,,,1500.0,True,Horus
+Horus,,,1400.0,False,Horus
+Frost Beast BOSS,,,650.0,True,Frost Beast
+Frost Beast,,,550.0,False,Frost Beast
+Allison BOSS,,,600.0,True,Allison
+Allother,,,500.0,False,Allother
+Sea-covering Dragon BOSS,,,800.0,True,Sea-covering Dragon
+Sea-covering dragon,,,700.0,False,Sea-covering dragon
+Fenggelong BOSS,,,950.0,True,Fenggelong
+Fenggelong,,,850.0,False,Fenggelong
+Blazing Ox BOSS,,,900.0,True,Blazing Ox
+Blazing Ox,,,800.0,False,Blazing Ox
+Grassy Pig BOSS,,,800.0,True,Grassy Pig
+sage pig,,,700.0,False,sage pig
+Blue Flame Wolf BOSS,,,1000.0,True,Blue Flame Wolf
+Blue Flame Wolf,,,900.0,False,Blue Flame Wolf
+Ice Emperor Melupa BOSS,,,800.0,True,Ice Emperor Melupa
+Ice Emperor Melpa,,,700.0,False,Ice Emperor Melpa
+Bihailong BOSS,,,900.0,True,Bihailong
+Bihailong,,,800.0,False,Bihailong
+Lightning Bear BOSS,,,650.0,True,Lightning Bear
+Lightning Bear,,,550.0,False,Lightning Bear
+White Velvet Snow Monster BOSS,,,650.0,True,White Velvet Snow Monster
+White Velvet Snow Monster,,,550.0,False,White Velvet Snow Monster
