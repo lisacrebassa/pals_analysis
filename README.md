@@ -125,6 +125,6 @@ Système de recommandation d’équipe auto-adaptatif
 
 Intégration avec des mods ou l’API du jeu (si existant)
 
-👥 Auteur·rice·s
+👥
 Projet réalisé dans le cadre d’une analyse de données sur Palworld.
 
