@@ -113,8 +113,6 @@ streamlit run app.py
 Les tables sont créées et peuplées via Python (voir insert_data.py).
 Modèle relationnel structuré pour les analyses croisées.
 
-📈 Présentation finale
-Une présentation Google Slides générée automatiquement depuis les visuels avec contextualisation est disponible pour accompagner une soutenance ou un rendu d’analyse.
 
 💡 Pistes d'amélioration
 Ajout de la météo et de l’heure dans les comportements
